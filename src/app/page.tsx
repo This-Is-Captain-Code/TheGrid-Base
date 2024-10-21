@@ -444,7 +444,7 @@ const Page: React.FC = ()  => {
         )}
 
         <Typography variant="body2" sx={{ color: 'red', mt: 2 }} >
-          Disclaimer: Enable "Insecure Content" in your browser settings to view the website
+          Disclaimer: Enable "Insecure Content" in your browser settings to view the website. Also, request the team to make the backend live to see the results [AWS is expensive :( ]
         </Typography>
 
         {/* Pagination Buttons */}
