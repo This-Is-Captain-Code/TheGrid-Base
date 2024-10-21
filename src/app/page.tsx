@@ -305,7 +305,7 @@ const Page: React.FC = ()  => {
             variant="outlined"
             fullWidth
             sx={{
-              backgroundColor: 'rgba(255, 255, 255, 0.1)',
+              backgroundColor: '#FFFFFF',
               borderRadius: '4px',
               border: '2px solid #FFFFFF',
               boxShadow: '0 0 10px #FFFFFF',
